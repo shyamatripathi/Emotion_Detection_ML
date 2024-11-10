@@ -5,6 +5,9 @@ This ML models can classify text into eight basic emotions, including anger, ant
 Tools used: Following tools are used in making this project--
 
 1)Pandas:- Used for loading and manipulating data. This library makes it easy to load datasets from files like CSVs, perform data transformations, and manage DataFrames.
+
+
+
 2)Scikit-learn (sklearn):-
 train_test_split: Splits the dataset into training, validation, and test sets, helping to create separate datasets for model training and evaluation.
 TfidfVectorizer: Converts the text data into a numeric format using Term Frequency-Inverse Document Frequency (TF-IDF), a common feature extraction technique for natural language processing tasks.
